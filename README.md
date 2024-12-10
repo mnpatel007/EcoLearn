@@ -1,10 +1,10 @@
------------------------------------
-Name and School: Meet PAtel - Seneca Polytechnic College
-Date: 12/09/24
-Category: Education
-Project Name: EcoLearn
-Description: EcoLearn is an interactive and educational platform designed for teenagers to tackle key challenges in ##sustainability, ##education, and health and ##wellness**. This project provides engaging learning resources, actionable tools, and innovative features to empower young minds in understanding and addressing environmental issues.
------------------------------------
+---
+1. Name and School: Meet PAtel - Seneca Polytechnic College
+2. Date: 12/09/24
+3. Category: Education
+4. Project Name: EcoLearn
+5. Description: EcoLearn is an interactive and educational platform designed for teenagers to tackle key challenges in sustainability, education, and health and wellness. This project provides engaging learning resources, actionable tools, and innovative features to empower young minds in understanding and addressing environmental issues.
+---
 # EcoLearn
 
 ## Features
