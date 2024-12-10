@@ -1,5 +1,5 @@
 ---
-1. Name and School: Meet PAtel - Seneca Polytechnic College
+1. Name and School: Meet Patel - Seneca Polytechnic College
 2. Date: 12/09/24
 3. Category: Education
 4. Project Name: EcoLearn
