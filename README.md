@@ -74,12 +74,7 @@ The result is displayed as **annual CO₂ emissions in tonnes**, offering insigh
    npm run dev
    ```
 
-3. Access the app in your browser at `http://localhost:3000`.
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+3. Access the app in your browser at `http://localhost:5174`.
 ---
 
 ## Acknowledgements
