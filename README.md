@@ -77,6 +77,11 @@ The result is displayed as **annual CO₂ emissions in tonnes**, offering insigh
 3. Access the app in your browser at `http://localhost:5174`.
 ---
 
+## Explore Zenith AI Online
+Zenith AI is also hosted online for a seamless, hassle-free experience. Visit the official website: [Eco Learning Official Website](https://illustrious-kashata-2b058e.netlify.app/)
+
+---
+
 ## Acknowledgements
 - OpenAI for AI-powered responses.
 - Environmental organizations for educational resources and CO₂ emission data.
