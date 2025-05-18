@@ -83,6 +83,10 @@ Zenith AI is also hosted online for a seamless, hassle-free experience. Visit th
 
 ---
 
-## Acknowledgements
-- OpenAI for AI-powered responses.
-- Environmental organizations for educational resources and CO₂ emission data.
+## 📬 Contact
+For feedback, collaboration, or questions:
+
+- 📧 Email: meetnp007@gmail.com.com
+- 🌐 Portfolio: [meetpatel12.com](https://www.vitaely.me/meetpatel12)
+
+---
